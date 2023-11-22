@@ -1,10 +1,18 @@
 header {
-    background-color: rgb(226, 43, 43);
-    color:cyan;
+    background-color:darkred;
+    color:aliceblue;
     text-align: center;
 }
+
+main {
+    background-color: lightgrey;   
+    padding: 1em;
+}
+
 body {
     background-image: 
     url(assignment/record.png);
+    background-repeat: repeat;
     background-color: blue;
+    margin: 0;
 }
