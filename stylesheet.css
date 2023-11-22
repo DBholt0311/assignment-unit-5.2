@@ -1,5 +1,10 @@
 header {
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 43);
     color:cyan;
     text-align: center;
+}
+body {
+    background-image: 
+    url(assignment/record.png);
+    background-color: blue;
 }
